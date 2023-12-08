@@ -5,4 +5,4 @@ But yet, It's mesmerizing to see the population of each country, each continent.
 In this little project, I try to find out this!
 And guess what Asia covered almost 60% of the population on this planet. 
 
-![alt text](Population by continent.png)
+![alt text]([Population by continent.png](https://github.com/tasnimxpress/world_population/blob/main/Population%20by%20continent.png)https://github.com/tasnimxpress/world_population/blob/main/Population%20by%20continent.png)
