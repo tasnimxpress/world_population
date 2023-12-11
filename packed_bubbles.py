@@ -146,5 +146,3 @@ class BubbleChart:
             ax.add_patch(circ)
             ax.text(*self.bubbles[i, :2], labels[i],
                     horizontalalignment='center', verticalalignment='center')
-
-
